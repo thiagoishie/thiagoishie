@@ -1,8 +1,6 @@
 # Olá, eu sou o Thiago 👋
 
-Analista de Dados Pleno no Itaú Unibanco, com formação em Ciências Econômicas e especialização em Ciência de Dados. 
-Atualmente, estou direcionando minha trajetória profissional para uma migração de carreira para a área de Ciência de Dados, 
-desenvolvendo projetos práticos que integram estatística, programação e machine learning.
+Analista de Dados Pleno no Itaú Unibanco, com formação em Ciências Econômicas e especialização em Ciência de Dados. Atualmente, estou direcionando minha trajetória profissional para uma migração de carreira para a área de Ciência de Dados, desenvolvendo projetos práticos que integram estatística, programação e machine learning.
 
 ## 🎓 Formação Acadêmica
 
@@ -39,8 +37,7 @@ Projeto completo de Ciência de Dados aplicado ao catálogo da Netflix, contempl
 
 ## 🎯 Objetivo Profissional
 
-Consolidar minha transição para a área de Ciência de Dados, aplicando métodos estatísticos, 
-técnicas de Machine Learning e conhecimento de negócio para transformar dados em soluções que gerem impacto e apoiem decisões estratégicas.
+Consolidar minha transição para a área de Ciência de Dados, aplicando métodos estatísticos, técnicas de Machine Learning e conhecimento de negócio para transformar dados em soluções que gerem impacto e apoiem decisões estratégicas.
 
 ---
 
