@@ -43,5 +43,7 @@ Consolidar minha transição para a área de Ciência de Dados, aplicando métod
 
 ## 📫 Contato
 
-- LinkedIn: https://linkedin.com/in/SEU_USUARIO
-- GitHub: https://www.linkedin.com/in/thiago-ishie-5ba849146/
+- LinkedIn: https://www.linkedin.com/in/thiago-ishie-5ba849146/
+- GitHub: https://github.com/thiagoishie
+
+
