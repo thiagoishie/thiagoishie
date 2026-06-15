@@ -1,16 +1,50 @@
-## Hi there 👋
+# Olá, eu sou o Thiago 👋
 
-<!--
-**thiagoishie/thiagoishie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados Pleno no Itaú Unibanco, com formação em Ciências Econômicas e especialização em Ciência de Dados. 
+Atualmente, estou direcionando minha trajetória profissional para uma migração de carreira para a área de Ciência de Dados, 
+desenvolvendo projetos práticos que integram estatística, programação e machine learning.
 
-Here are some ideas to get you started:
+## 🎓 Formação Acadêmica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bacharel em Economia pela Universidade Federal de São Paulo (UNIFESP);
+- MBA em Data Science e Analytics pela ESALQ/USP.
+
+## 🛠️ Competências
+
+- Python
+- SQL
+- AWS
+- Power BI
+- Git e GitHub
+- Estatística Aplicada
+- Machine Learning
+
+## 📂 Projetos em Destaque
+
+### Netflix Data Analysis
+
+Projeto completo de Ciência de Dados aplicado ao catálogo da Netflix, contemplando:
+
+- Desenvolvimento de pipeline ETL;
+- Engenharia de Features;
+- Análise Exploratória de Dados (EDA);
+- Testes de Hipótese;
+- Análise de Séries Temporais;
+- Clusterização (Machine Learning não supervisionado);
+- Social Network Analysis (SNA).
+
+🔗 **Repositório:** https://github.com/thiagoishie/netflix
+
+---
+
+## 🎯 Objetivo Profissional
+
+Consolidar minha transição para a área de Ciência de Dados, aplicando métodos estatísticos, 
+técnicas de Machine Learning e conhecimento de negócio para transformar dados em soluções que gerem impacto e apoiem decisões estratégicas.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://linkedin.com/in/SEU_USUARIO
+- GitHub: https://www.linkedin.com/in/thiago-ishie-5ba849146/
